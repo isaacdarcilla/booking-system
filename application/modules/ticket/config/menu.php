@@ -38,12 +38,12 @@ $HmvcMenu["ticket"] = array(
         "method"     => "unpaisd_cash_booking",
         "permission" => "read"
     ), 
-      // feedback
-    "ticket_confirmation" => array(  
-        "controller" => "booking",
-        "method"     => "confirmation",
-        "permission" => "read"
-    ), 
+    // feedback
+    // "ticket_confirmation" => array(  
+    //     "controller" => "booking",
+    //     "method"     => "confirmation",
+    //     "permission" => "read"
+    // ), 
     ), 
       // payemt_terms and condition
     "how_to_use" => array( 

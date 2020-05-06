@@ -36,9 +36,9 @@
                         </div>
                          <div class="form-group row">
                                         <label for="childere_price" class="col-sm-3 col-form-label">
-                                            <?php echo 'children Price' ?> *</label>
+                                            <?php echo 'Children Price' ?> *</label>
                                         <div class="col-sm-9">
-                                            <input name="childere_price" class="form-control" type="text" placeholder="<?php echo 'children Price' ?>" id="pchildere_rice" value="<?php echo $data->children_price?>">
+                                            <input name="childere_price" class="form-control" type="text" placeholder="<?php echo 'Children Price' ?>" id="pchildere_rice" value="<?php echo $data->children_price?>">
                                         </div>
 
                                     </div>

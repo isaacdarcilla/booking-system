@@ -256,16 +256,16 @@ color:red;}</style>
                                 <input name="offer_code" id="offerCode" class="form-control" placeholder="<?php echo display('offer_code') ?>" autocomplete="off" />
                             </div> 
                              <div class="form-group">
-                                <label for="child_no"><?php echo display('children') ?></label>
-                                <input name="child_no" id="child_no" class="form-control seatno" placeholder="<?php echo display('child_no') ?>" autocomplete="off" />
+                                <label for="child_no">Child (4-11 yrs)</label>
+                                <input name="child_no" id="child_no" class="form-control seatno" placeholder="Child (4-11 yrs)" autocomplete="off" />
                             </div> 
                              <div class="form-group">
-                                <label for="adult"><?php echo display('adult') ?></label>
-                                <input name="adult" id="adult" class="form-control seatno" placeholder="<?php echo display('adult') ?>" autocomplete="off" />
+                                <label for="adult">Regular Fare</label>
+                                <input name="adult" id="adult" class="form-control seatno" placeholder="Regular Fare" autocomplete="off" />
                             </div> 
                             <div class="form-group">
-                                <label for="special"><?php echo display('special') ?></label>
-                                <input name="special" id="special" class="form-control seatno" placeholder="<?php echo display('special') ?>" autocomplete="off" />
+                                <label for="special">Senior Citizen/PWD</label>
+                                <input name="special" id="special" class="form-control seatno" placeholder="Senior Citizen/PWD" autocomplete="off" />
                                   <input type="hidden" name="ttlseatw" id="tseats" class="form-control"  />
                             </div> 
 

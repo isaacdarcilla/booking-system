@@ -67,25 +67,25 @@
                     </div> 
                     
                        <div class="form-group row">
-                        <label for="adult" class="col-sm-3 col-form-label"><?php echo 'Adult' ?></label>
+                        <label for="adult" class="col-sm-3 col-form-label"><?php echo 'Regular Fare' ?></label>
                         <div class="col-sm-9">
-                            <input name="adult" id="adult" class="form-control seatno" placeholder="<?php echo display('adult') ?>" autocomplete="off"  type="number"/>
+                            <input name="adult" id="adult" class="form-control seatno" placeholder="Regular Fare" autocomplete="off"  type="number"/>
                             
                         </div>
                     </div> 
 
                              <div class="form-group row">
-                        <label for="child_no" class="col-sm-3 col-form-label"><?php echo 'Child' ?></label>
+                        <label for="child_no" class="col-sm-3 col-form-label"><?php echo 'Child (4-11 yrs)' ?></label>
                         <div class="col-sm-9">
-                            <input name="child_no" id="child_no" class="form-control seatno" placeholder="<?php echo display('child_no') ?>" autocomplete="off"  type="number"/>
+                            <input name="child_no" id="child_no" class="form-control seatno" placeholder="Child (4-11 yrs)" autocomplete="off"  type="number"/>
                             
                         </div>
                     </div> 
 
                          <div class="form-group row">
-                        <label for="special" class="col-sm-3 col-form-label"><?php echo 'Special' ?></label>
+                        <label for="special" class="col-sm-3 col-form-label"><?php echo 'Senior Citizen/PWD' ?></label>
                         <div class="col-sm-9">
-                            <input name="special" id="special" class="form-control seatno" placeholder="<?php echo display('special') ?>" autocomplete="off"  type="number"/>
+                            <input name="special" id="special" class="form-control seatno" placeholder="Senior Citizen/PWD" autocomplete="off"  type="number"/>
                                   <input type="hidden" name="ttlseatw" id="tseats" class="form-control"  />
                             
                         </div>

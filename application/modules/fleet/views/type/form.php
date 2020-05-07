@@ -35,7 +35,7 @@
                                        class="col-sm-5 col-form-label"><?php echo display('layout') ?></label>
                                 <div class="col-sm-3">
                                     <select id="layout" name="layout" required="required" class="form-control">
-                                        <option value="2-2" <?php if ($fleet_type->layout == "2-2") {
+                                        <!-- <option value="2-2" <?php if ($fleet_type->layout == "2-2") {
                                             echo "selected";
                                         } ?>>2-2
                                         </option>
@@ -50,19 +50,19 @@
                                         <option value="1-2" <?php if ($fleet_type->layout == "1-2") {
                                             echo "selected";
                                         } ?>>1-2
-                                        </option>
+                                        </option> -->
                                         <option value="3-2" <?php if ($fleet_type->layout == "3-2") {
                                             echo "selected";
                                         } ?>>3-2
                                         </option>
-                                        <option value="2-3" <?php if ($fleet_type->layout == "2-3") {
+                                        <!-- <option value="2-3" <?php if ($fleet_type->layout == "2-3") {
                                             echo "selected";
                                         } ?>>2-3
                                         </option>
                                         <option value="3-3" <?php if ($fleet_type->layout == "3-3") {
                                             echo "selected";
                                         } ?>>3-3
-                                        </option>
+                                        </option> -->
                                     </select>
                                 </div>
                                 <div class="col-sm-4">

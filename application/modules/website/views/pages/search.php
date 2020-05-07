@@ -58,9 +58,9 @@ color:red;}</style>
                                     <th scope="col"><?php echo display('duration') ?></th>
                                     <th scope="col"><?php echo display('distance') ?></th>
                                     <th scope="col"><?php echo display('arrival') ?></th>
-                                    <th scope="col"><?php echo display('adult_fare') ?></th>
-                                    <th scope="col"><?php echo display('child_fare') ?></th>
-                                    <th scope="col"><?php echo display('special_fare') ?></th>
+                                    <th scope="col">Regular Fare</th>
+                                    <th scope="col">Child (4-11 yrs)</th>
+                                    <th scope="col">Senior Citizen/PWD</th>
                                     <th scope="col"><?php echo display('operator') ?></th>
                                 </tr>
                             </thead>

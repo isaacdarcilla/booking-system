@@ -252,7 +252,7 @@ color:red;}</style>
                                 <select name="drop_location" id="drop_location" class="select2 location" style="width:100%"></select>
                             </div> 
                             <div class="form-group">
-                                <label for="offerCode"><?php echo display('offer_code') ?></label>
+                                <label for="offerCode">Student Offer Code</label>
                                 <input name="offer_code" id="offerCode" class="form-control" placeholder="<?php echo display('offer_code') ?>" autocomplete="off" />
                             </div> 
                              <div class="form-group">

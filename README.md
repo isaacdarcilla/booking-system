@@ -40,7 +40,7 @@ $db['default'] = array(
 
 More screenshot can be found in ```screenshots``` folder.
 
-Home  | Search
+Landing  | Search
 ------------- | -------------
 ![App](https://github.com/isaacdarcilla/booking-system/blob/master/screenshots/DeepinScreenshot_20200331180906.png) | ![App](https://github.com/isaacdarcilla/booking-system/blob/master/screenshots/DeepinScreenshot_20200331180935.png)
 

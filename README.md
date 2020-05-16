@@ -61,3 +61,5 @@ Fork or star this repository for support.
 Not accepting any issues and pull requests. 
 
 ## 🚫 No Scammer
+
+## ❌ Discontinued

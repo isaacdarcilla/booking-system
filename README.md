@@ -2,7 +2,7 @@
 
 <h4 align="center">Booking reservation system built with Codeigniter</h4>
 
-## ✨ Prerequisites
+## ✨ Prerequisite
 
 * XAMPP ^7.4
 * Git ~2.25

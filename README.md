@@ -28,6 +28,8 @@ $db['default'] = array(
     ...
 ```
 
+MESSAGE ME FOR THE DATABASE FILE.
+
 * Edit server credentials and database name
 
 

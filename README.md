@@ -11,6 +11,8 @@
 
 Before you proceed to installation, make sure you have installed `XAMPP` first and import the database in `phpmyadmin`.
 
+PLEASE STAR ⭐ IF YOU THINK THIS IS HELPFUL.
+
 ## ✨ Installation
 
 * `git clone https://github.com/isaacdarcilla/booking-system.git` - clone the repository

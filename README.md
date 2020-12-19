@@ -34,7 +34,6 @@ MESSAGE ME FOR THE DATABASE FILE.
 
 * Edit server credentials and database name
 
-
 ## 💻 Admin Demonstration
 
 * Username: `isaac@email.com`

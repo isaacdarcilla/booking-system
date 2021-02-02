@@ -4,7 +4,6 @@
 
 ## ✨ Prerequisites
 
-
 * XAMPP ^7.4
 * Git ~2.25
 * PHP ^7.4
